@@ -1,0 +1,12 @@
+{
+  "name": "dev.logilabo.constraint-debugger",
+  "displayName": "Constraint Debugger",
+  "version": "0.0.1",
+  "unity": "2022.3",
+  "description": "Tools for debugging VRC Constraint chains.",
+  "author": {
+    "name": "logi",
+    "email": "ent@arrize.net",
+    "url": "https://logilabo.dev/"
+  }
+}

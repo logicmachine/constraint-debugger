@@ -1,0 +1,19 @@
+{
+    "name": "dev.logilabo.constraint-debugger.editor",
+    "rootNamespace": "",
+    "references": [
+        "VRC.SDK3A",
+        "Unity.Collections"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
