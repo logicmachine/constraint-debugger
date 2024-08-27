@@ -4,7 +4,7 @@ Constraint Debugger
 Tools for debugging [VRC Constraint](https://creators.vrchat.com/avatars/avatar-dynamics/constraints/) chains.
 
 ## How to use
-- Install Logilabo Avatar Tools VPM repository and import "Constraint Debugger".
+- Install [Logilabo Avatar Tools VPM repository](https://vpm.logilabo.dev) and import "Constraint Debugger".
 - Enter to Play Mode
 - Open Constraint Debugger from "Window" &rarr; "Logilabo" &rarr; "Constraint Debugger"
 
